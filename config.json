@@ -2,7 +2,7 @@
     "trigger_hotkey": "0xA0",
     "base_delay":0.01,
     "trigger_delay":4,
-    "color_tolerance":68,
+    "color_tolerance":75,
     "always_enabled":true
 }
 
